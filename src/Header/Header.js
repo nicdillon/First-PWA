@@ -6,7 +6,7 @@ const MainHeader = ({ currentPage, setCurrentPage }) => {
   return (
     <div>
       <ul className="nav-style">
-        <img src={"../../../public/logo192.png"} alt="React Logo"></img>
+        {/* <img src={"../../../public/logo192.png"} alt="React Logo"></img> */}
         <NavListItem
           currentPage={currentPage}
           label={"Home"}
