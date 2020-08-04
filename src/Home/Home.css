@@ -1,0 +1,20 @@
+.home-style {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-bottom: 1px solid cyan;
+  border-left: 1px solid cyan;
+  flex-grow: 1;
+  margin-bottom: 48px;
+  color: lightcyan;
+  width: 85vw;
+}
+
+h1 {
+  padding: 6px;
+}
+
+h2 {
+  padding: 12px;
+}

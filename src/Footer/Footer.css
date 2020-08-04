@@ -1,0 +1,18 @@
+.footer-style {
+  margin-bottom: 12px;
+  justify-self: flex-end;
+  display: flex;
+  width: 25vw;
+  border-top: 1px solid cyan;
+  justify-content: center;
+  margin-top: auto;
+}
+
+a {
+  color: goldenrod;
+  flex-grow: 1;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  margin-top: 6px;
+}
