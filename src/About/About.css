@@ -1,0 +1,15 @@
+.about-style {
+  display: flex;
+  flex-direction: column;
+  border-left: 1px solid cyan;
+  border-bottom: 1px solid cyan;
+  color: lightcyan;
+  width: 85vw;
+  flex-grow: 1;
+  margin-bottom: 48px;
+  justify-content: center;
+}
+p {
+  margin: 12px;
+  text-align: center;
+}
